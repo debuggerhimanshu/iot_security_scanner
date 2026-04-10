@@ -1,0 +1,13 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "mac": null,
+        "open_ports": [],
+        "risk_score": 0,
+        "rule_risk": "Safe",
+        "ai_risk": "Safe",
+        "suggestions": [
+            "No risky ports detected. Device appears secure."
+        ]
+    }
+]
